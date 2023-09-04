@@ -8,7 +8,7 @@ pipeline {
         }
         stage('Test') {	
             steps {
-                echo 'Peter listen to me, you idiot!'
+                echo 'Peter listen to me, you fool!'
             }
         }
         stage('Deploy1’) {
@@ -18,7 +18,7 @@ pipeline {
         }
         stage('Deploy2’) {
             steps {
-                echo 'Venom gonna come for you hdiytdjdjrdgtdxyhdctgfckhcd'
+                echo 'Venom gonna come for you'
             }
         }
     }
