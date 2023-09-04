@@ -16,7 +16,7 @@ pipeline {
                 echo 'mj misses you'
             }
         }
-        stage('Deploy2’) {
+        stage('Dep2’) {
             steps {
                 echo 'Venom gonna come for you'
             }
